@@ -7,6 +7,11 @@
       <sourceFolder url="file://$MODULE_DIR$/Labs/Lab2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Labs/Lab2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Labs/Lab2/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment/Assignment 1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment/Assignment 1/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Labs/Lab3/src/main/java/lab3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Labs/Lab3/src/test/java/lab3" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Labs/Lab3/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -64,5 +69,6 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="junit.jupiter1" level="project" />
   </component>
 </module>
